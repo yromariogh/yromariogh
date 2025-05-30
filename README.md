@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Romario Gualdrón-Hurtado</h1>
-<h3 align="center">Master student in Computer Science at Universidad Industrial de Santander, Colombia</h3>
+<h3 align="center">M.Sc. in Computer Science</h3>
 
 - 🔭 I’m currently part of [HDSP reasearch group](https://hdspgroup.github.io/)
 
