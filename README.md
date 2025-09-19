@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yromariogh@gmail.com**
 
-- 📄 Checkout my [resume](https://drive.google.com/file/d/1a6GEyHY-yMBE6rxIK6n8wlqta2VZ5cue/view?usp=sharing)
+- 📄 Checkout my [resume](https://drive.google.com/file/d/1dzNRRM_uVeg_U7FAicI5hVLIdQg84DQd/view?usp=sharing) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
